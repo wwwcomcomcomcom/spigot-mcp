@@ -1,0 +1,5 @@
+# Spigot MCP Server Configuration
+
+# Port for the MCP server to listen on
+# Default: 3000
+mcp-port: 3000
